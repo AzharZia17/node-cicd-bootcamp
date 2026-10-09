@@ -1,5 +1,5 @@
 function getMessage() {
-  return "Hello from my CI/CD pipeline!";
+  return "Hello from my CI/CD pipeline!!";
 }
 
 if (require.main === module) {
