@@ -5,6 +5,6 @@ const { getMessage } = require("./app");
 test("returns the expected greeting", () => {
   assert.equal(
     getMessage(),
-    "Hello from my CI/CD pipeline!"
+    "Hello from my CI/CD pipeline!!"
   );
 });
